@@ -1,0 +1,48 @@
+h1{
+    font-size: 50px;
+    text-align: center;
+    margin: 20px;
+    color: #808000;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+hr{
+    background-color: #556B2F;
+    height: 5px;
+}
+
+.linha3{
+    max-width: 900px;
+    margin: 15px auto;
+    margin-left: 500px;
+}
+
+.linha3 img, .linha2 img{
+    max-width: 200px;
+    margin-left: 60px;
+    
+}
+
+.linha2{
+    max-width: 900px;
+    margin: 15px auto;
+    margin-left: 650px;
+}
+
+a:link{
+    color: #000000;
+    background-color:#808000 ;
+    margin-left: 30px;
+
+}
+
+.link{
+    margin-left: 790px;
+}
+
+.conteudo{
+    background-image: url(../img/ceu1.jpg);
+}
+
+
+
